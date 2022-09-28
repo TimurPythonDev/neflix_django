@@ -5,7 +5,7 @@ This project Dajngo Flix Movies,Videos,TVShow,Short
 
 1.step git clone or download project
   
-      1.git clone ""
+      1.git clone "https://github.com/TimurPythonDev/neflix_django.git"
       
       2.download file
 
