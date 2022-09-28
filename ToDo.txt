@@ -1,0 +1,41 @@
+--- Videos
+        -- Long Videos (movies)  # Uzun va to'liq kinolar
+        -- Short Videos # Kalta va qisqa video va kinolar
+        -- Playlist -> list of movies # Filimlar ro'yhati yoki Playlist
+        -- Seson -> Playlist of Play list # Filimlar Playlisti
+
+---Category
+        -- Action,Comedy # Qatorlar Categotiyal misol Kamedik,Action v hk
+
+--- Tags
+        -- Action,comedy,Drama,Action-Comedy,Live Studio Audience
+
+--- User Rating # Foydalanuvchi reytingi
+        -- 1-5 Start Rating
+        -- Prepares our system for Mashine Lerning
+
+---Search
+        -- Title
+        -- Descriptions
+        -- Tags
+
+ ## Futere
+        -- User Rsgistration
+        -- JavaScript UI / Frontent Library
+                -React, Vue,Etc
+                -Bootstrap,Tailwind CSS
+                -Dajango Rest Framework for API
+        
+        -- Recomender
+                -Collaborative Filtering with Mashine Lerning
+        
+        -- Elasticsearch
+        -- Video Analiytcs & WAtch history
+        -- Video host API
+                - Video,Youtube,
+                - Open Source Option (ffmpeg)
+        -- API-Driven Video Details
+                -Cast Members (actors,derectors)
+                -Release Year
+        -- Payments Integrations
+                - Stripe / Braintree / Crypot   
