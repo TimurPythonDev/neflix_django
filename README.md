@@ -12,11 +12,11 @@ This project Dajngo Flix Movies,Videos,TVShow,Short
 
 2-step Install virtualenv (Kali Linux,Windows,MacOs)
 
-      1. Kali Linux pip3 install virtualenv
+      1. (Kali) Linux pip3 install virtualenv
   
-      2. Windows pip install virtualenv
+      2. (Windows) pip install virtualenv
   
-      3. MacOs pip install virtualenv
+      3. (MacOs) pip install virtualenv
 
 
 3.step Create virtualenv venv (Kali Linux,Windows,MacOs)
